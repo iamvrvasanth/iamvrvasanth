@@ -89,25 +89,16 @@
 
 # 🏆 Achievements & Certifications
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/🥇-Diploma_Gold_Medalist-gold?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🏅-DataCamp_Associate_Data_Scientist-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📊-IBM_Excel_Data_Analysis-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🎓-Coursera_ML_Certifications-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💻-Infosys_Springboard-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🚀-10%2B_End_to_End_ML_Projects-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📈-Data_Analytics_Portfolio-brightgreen?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌱-Continuous_Learner-blueviolet?style=for-the-badge"/>
-
-</p>
+| Achievement | Details |
+|------------|---------|
+| 🥇 Gold Medal | Diploma 5th Rank |
+| 🏅 DataCamp | Associate Data Scientist |
+| 📚 IBM | Excel Basics for Data Analysis |
+| 🎓 Coursera | Machine Learning Certifications |
+| 💻 Infosys | Springboard Certifications |
+| 🚀 Projects | 10+ End-to-End ML & Data Analytics Projects |
+| 📈 Portfolio | Industry-Oriented AI & Data Science Projects |
+| 🌱 Learning | Power BI, NLP, Deep Learning, MLOps & Cloud |
 
 ---
 
@@ -119,11 +110,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/vasanthvr">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vrvasanth1234@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
