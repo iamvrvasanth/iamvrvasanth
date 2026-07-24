@@ -18,17 +18,15 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-📊 Passionate about solving real-world problems using **Data Science, Machine Learning, and Artificial Intelligence**.
+🚀 Aspiring **Data Scientist** & **Machine Learning Engineer** with a passion for transforming data into meaningful business insights.
 
-💻 Skilled in **Python, SQL, Excel, Machine Learning, Statistics, Data Visualization, Flask, Git, and MongoDB** through hands-on projects.
+💻 Experienced in **Python, SQL, Excel, Machine Learning, Statistics, Data Visualization, Flask, Git, and MongoDB** through hands-on, end-to-end projects.
 
-📚 Currently expanding my expertise in **Power BI, NLP, Deep Learning, MLOps, Cloud Technologies, and Advanced Machine Learning**.
+📈 Passionate about **Data Analytics, Predictive Modeling, NLP, and Artificial Intelligence**, with a strong focus on solving real-world problems.
 
-🚀 Building end-to-end data-driven applications that transform raw data into meaningful insights and business value.
+🌱 Continuously learning **Power BI, Deep Learning, MLOps, and Cloud Technologies** to build scalable, production-ready AI solutions.
 
-🎯 Aspiring to launch my career as a **Data Scientist** or **Machine Learning Engineer**, where I can build intelligent, scalable, and impactful AI solutions.
-
-🌱 Every repository reflects my commitment to continuous learning, practical implementation, and professional growth.
+🎯 Open to **Data Scientist**, **Machine Learning Engineer**, and **AI Engineer** opportunities where I can learn, contribute, and create impactful solutions.
 
 # ⚒️ Tech Stack
 
